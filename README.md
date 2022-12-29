@@ -18,13 +18,13 @@ To compile and run the program:
 - To run, type java SortComparison "ran50.txt" "ran50out.txt" "1"
 
 The 3rd argument represents the type of sort to be run. Here are the options:
-- 1. QuickSort
-- 2. QuickSort with 100 as stopping case
-- 3. QuickSort with 50 as stopping case
-- 4. QuickSort with median-of-3 as pivot
-- 5. Natural MergeSort
-- 6. Traditional MergeSort
-- 7. Natural MergeSort w/Array
+1. QuickSort
+2. QuickSort with 100 as stopping case
+3. QuickSort with 50 as stopping case
+4. QuickSort with median-of-3 as pivot
+5. Natural MergeSort
+6. Traditional MergeSort
+7. Natural MergeSort w/Array
 
 Specified output files will be placed in the project directory<br>
 Output will display on screen and will print to the specified file<br>
