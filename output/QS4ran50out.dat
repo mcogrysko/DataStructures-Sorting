@@ -1,0 +1,381 @@
+Mike Ogrysko
+java SortComparison "ran50.dat" "QS4ran50out.dat"
+Reading "ran50.dat" and writing to "QS4ran50out.dat"
+Running a QuickSort with median-of-3 as pivot
+QuickSort: Comparing 29 to 6
+QuickSort: Swapping 29 and 6
+QuickSort: Comparing 6 to 25
+QuickSort: Comparing 29 to 25
+QuickSort: Swapping 29 and 25
+QuickSort: Swapping 25 and 29
+QuickSort: Comparing 40 to 12
+QuickSort: Swapping 40 and 12
+QuickSort: Comparing 39 to 20
+QuickSort: Swapping 39 and 20
+QuickSort: Comparing 30 to 16
+QuickSort: Swapping 30 and 16
+QuickSort: Comparing 49 to 9
+QuickSort: Swapping 49 and 9
+QuickSort: Comparing 33 to 4
+QuickSort: Swapping 33 and 4
+QuickSort: Comparing 34 to 21
+QuickSort: Swapping 34 and 21
+QuickSort: Comparing 50 to 15
+QuickSort: Swapping 50 and 15
+QuickSort: Comparing 27 to 8
+QuickSort: Swapping 27 and 8
+QuickSort: Comparing 48 to 3
+QuickSort: Swapping 48 and 3
+QuickSort: Comparing 28 to 10
+QuickSort: Swapping 28 and 10
+QuickSort: Comparing 47 to 2
+QuickSort: Swapping 47 and 2
+QuickSort: Comparing 29 to 22
+QuickSort: Comparing 29 to 25
+QuickSort: Swapping 29 and 25
+QuickSort: Comparing 6 to 18
+QuickSort: Comparing 6 to 22
+QuickSort: Comparing 18 to 22
+QuickSort: Swapping 18 and 22
+QuickSort: Comparing 20 to 2
+QuickSort: Swapping 20 and 2
+QuickSort: Comparing 24 to 14
+QuickSort: Swapping 24 and 14
+QuickSort: Comparing 22 to 10
+QuickSort: Swapping 22 and 10
+QuickSort: Comparing 21 to 3
+QuickSort: Swapping 21 and 3
+QuickSort: Comparing 23 to 8
+QuickSort: Swapping 23 and 8
+QuickSort: Comparing 23 to 8
+QuickSort: Comparing 23 to 18
+QuickSort: Swapping 23 and 18
+QuickSort: Comparing 6 to 11
+QuickSort: Comparing 6 to 8
+QuickSort: Comparing 11 to 8
+QuickSort: Swapping 11 and 8
+QuickSort: Swapping 8 and 11
+QuickSort: Comparing 12 to 1
+QuickSort: Swapping 12 and 1
+QuickSort: Comparing 17 to 3
+QuickSort: Swapping 17 and 3
+QuickSort: Comparing 13 to 4
+QuickSort: Swapping 13 and 4
+QuickSort: Comparing 16 to 5
+QuickSort: Comparing 16 to 8
+QuickSort: Swapping 16 and 8
+QuickSort: Comparing 6 to 4
+QuickSort: Swapping 6 and 4
+QuickSort: Comparing 4 to 5
+QuickSort: Comparing 6 to 5
+QuickSort: Swapping 6 and 5
+QuickSort: Swapping 5 and 6
+QuickSort: Comparing 6 to 2
+QuickSort: Swapping 6 and 2
+QuickSort: Comparing 6 to 2
+QuickSort: Comparing 6 to 5
+QuickSort: Swapping 6 and 5
+QuickSort: Comparing 4 to 1
+QuickSort: Swapping 4 and 1
+QuickSort: Comparing 1 to 2
+QuickSort: Comparing 4 to 2
+QuickSort: Swapping 4 and 2
+QuickSort: Swapping 2 and 4
+QuickSort: Comparing 4 to 1
+QuickSort: Comparing 4 to 2
+QuickSort: Swapping 4 and 2
+QuickSort: Comparing 3 to 3
+QuickSort: Comparing 3 to 4
+QuickSort: Comparing 3 to 4
+QuickSort: Swapping 3 and 4
+QuickSort: Comparing 4 to 2
+QuickSort: Comparing 4 to 3
+QuickSort: Swapping 4 and 3
+QuickSort: Comparing 7 to 7
+QuickSort: Comparing 7 to 6
+QuickSort: Swapping 7 and 6
+QuickSort: Comparing 6 to 7
+QuickSort: Swapping 6 and 7
+QuickSort: Comparing 7 to 5
+QuickSort: Comparing 7 to 6
+QuickSort: Swapping 7 and 6
+QuickSort: Comparing 11 to 13
+QuickSort: Comparing 11 to 16
+QuickSort: Comparing 13 to 16
+QuickSort: Swapping 13 and 16
+QuickSort: Comparing 14 to 12
+QuickSort: Swapping 14 and 12
+QuickSort: Comparing 16 to 10
+QuickSort: Comparing 16 to 13
+QuickSort: Swapping 16 and 13
+QuickSort: Comparing 11 to 9
+QuickSort: Swapping 11 and 9
+QuickSort: Comparing 9 to 10
+QuickSort: Comparing 11 to 10
+QuickSort: Swapping 11 and 10
+QuickSort: Swapping 10 and 11
+QuickSort: Comparing 11 to 9
+QuickSort: Comparing 11 to 10
+QuickSort: Swapping 11 and 10
+QuickSort: Comparing 12 to 12
+QuickSort: Comparing 12 to 11
+QuickSort: Swapping 12 and 11
+QuickSort: Comparing 11 to 12
+QuickSort: Swapping 11 and 12
+QuickSort: Comparing 12 to 10
+QuickSort: Comparing 12 to 11
+QuickSort: Swapping 12 and 11
+QuickSort: Comparing 17 to 15
+QuickSort: Swapping 17 and 15
+QuickSort: Comparing 15 to 16
+QuickSort: Comparing 17 to 16
+QuickSort: Swapping 17 and 16
+QuickSort: Swapping 16 and 17
+QuickSort: Comparing 17 to 14
+QuickSort: Swapping 17 and 14
+QuickSort: Comparing 17 to 14
+QuickSort: Comparing 17 to 16
+QuickSort: Swapping 17 and 16
+QuickSort: Comparing 15 to 15
+QuickSort: Comparing 15 to 14
+QuickSort: Swapping 15 and 14
+QuickSort: Comparing 14 to 15
+QuickSort: Swapping 14 and 15
+QuickSort: Comparing 15 to 13
+QuickSort: Comparing 15 to 14
+QuickSort: Swapping 15 and 14
+QuickSort: Comparing 21 to 22
+QuickSort: Comparing 21 to 23
+QuickSort: Comparing 22 to 23
+QuickSort: Swapping 22 and 23
+QuickSort: Comparing 23 to 20
+QuickSort: Swapping 23 and 20
+QuickSort: Comparing 24 to 20
+QuickSort: Comparing 24 to 22
+QuickSort: Swapping 24 and 22
+QuickSort: Comparing 21 to 19
+QuickSort: Swapping 21 and 19
+QuickSort: Comparing 19 to 20
+QuickSort: Comparing 21 to 20
+QuickSort: Swapping 21 and 20
+QuickSort: Swapping 20 and 21
+QuickSort: Comparing 21 to 19
+QuickSort: Comparing 21 to 20
+QuickSort: Swapping 21 and 20
+QuickSort: Comparing 23 to 23
+QuickSort: Comparing 23 to 24
+QuickSort: Comparing 23 to 24
+QuickSort: Swapping 23 and 24
+QuickSort: Comparing 24 to 22
+QuickSort: Comparing 24 to 23
+QuickSort: Swapping 24 and 23
+QuickSort: Comparing 46 to 31
+QuickSort: Swapping 46 and 31
+QuickSort: Comparing 31 to 29
+QuickSort: Swapping 31 and 29
+QuickSort: Comparing 46 to 31
+QuickSort: Swapping 46 and 31
+QuickSort: Swapping 31 and 46
+QuickSort: Comparing 47 to 30
+QuickSort: Swapping 47 and 30
+QuickSort: Comparing 38 to 26
+QuickSort: Swapping 38 and 26
+QuickSort: Comparing 37 to 27
+QuickSort: Swapping 37 and 27
+QuickSort: Comparing 45 to 28
+QuickSort: Swapping 45 and 28
+QuickSort: Comparing 45 to 28
+QuickSort: Comparing 45 to 31
+QuickSort: Swapping 45 and 31
+QuickSort: Comparing 29 to 26
+QuickSort: Swapping 29 and 26
+QuickSort: Comparing 26 to 28
+QuickSort: Comparing 29 to 28
+QuickSort: Swapping 29 and 28
+QuickSort: Swapping 28 and 29
+QuickSort: Comparing 30 to 27
+QuickSort: Swapping 30 and 27
+QuickSort: Comparing 29 to 27
+QuickSort: Comparing 29 to 28
+QuickSort: Swapping 29 and 28
+QuickSort: Comparing 26 to 26
+QuickSort: Comparing 26 to 27
+QuickSort: Comparing 26 to 27
+QuickSort: Swapping 26 and 27
+QuickSort: Comparing 27 to 25
+QuickSort: Comparing 27 to 26
+QuickSort: Swapping 27 and 26
+QuickSort: Comparing 30 to 30
+QuickSort: Comparing 30 to 29
+QuickSort: Swapping 30 and 29
+QuickSort: Comparing 29 to 30
+QuickSort: Swapping 29 and 30
+QuickSort: Comparing 30 to 28
+QuickSort: Comparing 30 to 29
+QuickSort: Swapping 30 and 29
+QuickSort: Comparing 32 to 43
+QuickSort: Comparing 32 to 45
+QuickSort: Comparing 43 to 45
+QuickSort: Swapping 43 and 45
+QuickSort: Comparing 44 to 40
+QuickSort: Swapping 44 and 40
+QuickSort: Comparing 48 to 42
+QuickSort: Swapping 48 and 42
+QuickSort: Comparing 46 to 39
+QuickSort: Swapping 46 and 39
+QuickSort: Comparing 50 to 36
+QuickSort: Swapping 50 and 36
+QuickSort: Comparing 45 to 38
+QuickSort: Swapping 45 and 38
+QuickSort: Comparing 49 to 33
+QuickSort: Comparing 49 to 43
+QuickSort: Swapping 49 and 43
+QuickSort: Comparing 32 to 37
+QuickSort: Comparing 32 to 33
+QuickSort: Comparing 37 to 33
+QuickSort: Swapping 37 and 33
+QuickSort: Swapping 33 and 37
+QuickSort: Comparing 40 to 32
+QuickSort: Comparing 40 to 33
+QuickSort: Swapping 40 and 33
+QuickSort: Comparing 42 to 39
+QuickSort: Swapping 42 and 39
+QuickSort: Comparing 39 to 40
+QuickSort: Comparing 42 to 40
+QuickSort: Swapping 42 and 40
+QuickSort: Swapping 40 and 42
+QuickSort: Comparing 41 to 38
+QuickSort: Swapping 41 and 38
+QuickSort: Comparing 42 to 34
+QuickSort: Swapping 42 and 34
+QuickSort: Comparing 42 to 36
+QuickSort: Comparing 42 to 40
+QuickSort: Swapping 42 and 40
+QuickSort: Comparing 39 to 38
+QuickSort: Swapping 39 and 38
+QuickSort: Comparing 38 to 36
+QuickSort: Swapping 38 and 36
+QuickSort: Comparing 39 to 38
+QuickSort: Swapping 39 and 38
+QuickSort: Swapping 38 and 39
+QuickSort: Comparing 39 to 34
+QuickSort: Swapping 39 and 34
+QuickSort: Comparing 39 to 37
+QuickSort: Comparing 39 to 38
+QuickSort: Swapping 39 and 38
+QuickSort: Comparing 36 to 35
+QuickSort: Swapping 36 and 35
+QuickSort: Comparing 35 to 37
+QuickSort: Comparing 36 to 37
+QuickSort: Swapping 36 and 37
+QuickSort: Comparing 37 to 34
+QuickSort: Swapping 37 and 34
+QuickSort: Comparing 37 to 34
+QuickSort: Comparing 37 to 36
+QuickSort: Swapping 37 and 36
+QuickSort: Comparing 35 to 35
+QuickSort: Comparing 35 to 34
+QuickSort: Swapping 35 and 34
+QuickSort: Comparing 34 to 35
+QuickSort: Swapping 34 and 35
+QuickSort: Comparing 35 to 33
+QuickSort: Comparing 35 to 34
+QuickSort: Swapping 35 and 34
+QuickSort: Comparing 41 to 41
+QuickSort: Comparing 41 to 42
+QuickSort: Comparing 41 to 42
+QuickSort: Swapping 41 and 42
+QuickSort: Comparing 42 to 40
+QuickSort: Comparing 42 to 41
+QuickSort: Swapping 42 and 41
+QuickSort: Comparing 45 to 46
+QuickSort: Comparing 45 to 49
+QuickSort: Comparing 46 to 49
+QuickSort: Swapping 46 and 49
+QuickSort: Comparing 47 to 44
+QuickSort: Swapping 47 and 44
+QuickSort: Comparing 50 to 44
+QuickSort: Comparing 50 to 46
+QuickSort: Swapping 50 and 46
+QuickSort: Comparing 45 to 45
+QuickSort: Comparing 45 to 44
+QuickSort: Swapping 45 and 44
+QuickSort: Comparing 44 to 45
+QuickSort: Swapping 44 and 45
+QuickSort: Comparing 45 to 43
+QuickSort: Comparing 45 to 44
+QuickSort: Swapping 45 and 44
+QuickSort: Comparing 49 to 48
+QuickSort: Swapping 49 and 48
+QuickSort: Comparing 48 to 50
+QuickSort: Comparing 49 to 50
+QuickSort: Swapping 49 and 50
+QuickSort: Comparing 50 to 47
+QuickSort: Swapping 50 and 47
+QuickSort: Comparing 50 to 47
+QuickSort: Comparing 50 to 49
+QuickSort: Swapping 50 and 49
+QuickSort: Comparing 48 to 48
+QuickSort: Comparing 48 to 47
+QuickSort: Swapping 48 and 47
+QuickSort: Comparing 47 to 48
+QuickSort: Swapping 47 and 48
+QuickSort: Comparing 48 to 46
+QuickSort: Comparing 48 to 47
+QuickSort: Swapping 48 and 47
+
+Number of swaps: 132
+
+Number of comparisons: 189
+
+Sorted result: 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50

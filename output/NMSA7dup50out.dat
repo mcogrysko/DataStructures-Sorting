@@ -1,0 +1,382 @@
+Mike Ogrysko
+java SortComparison "dup50.dat" "NMSA7dup50out.dat"
+Reading "dup50.dat" and writing to "NMSA7dup50out.dat"
+Running a Natural MergeSort w/Array
+MergeSort: Comparing 38 to 229
+MergeSort: Comparing 229 to 485
+MergeSort: Comparing 485 to 74
+MergeSort: Comparing 74 to 264
+MergeSort: Comparing 264 to 386
+MergeSort: Comparing 386 to 494
+MergeSort: Comparing 494 to 105
+MergeSort: Comparing 105 to 96
+MergeSort: Comparing 96 to 86
+MergeSort: Comparing 86 to 38
+MergeSort: Comparing 38 to 229
+MergeSort: Comparing 229 to 485
+MergeSort: Comparing 485 to 74
+MergeSort: Comparing 74 to 264
+MergeSort: Comparing 264 to 386
+MergeSort: Comparing 386 to 494
+MergeSort: Comparing 494 to 105
+MergeSort: Comparing 105 to 96
+MergeSort: Comparing 96 to 86
+MergeSort: Comparing 86 to 38
+MergeSort: Comparing 38 to 229
+MergeSort: Comparing 229 to 485
+MergeSort: Comparing 485 to 74
+MergeSort: Comparing 74 to 264
+MergeSort: Comparing 264 to 386
+MergeSort: Comparing 386 to 494
+MergeSort: Comparing 494 to 105
+MergeSort: Comparing 105 to 96
+MergeSort: Comparing 96 to 86
+MergeSort: Comparing 86 to 38
+MergeSort: Comparing 38 to 229
+MergeSort: Comparing 229 to 485
+MergeSort: Comparing 485 to 74
+MergeSort: Comparing 74 to 264
+MergeSort: Comparing 264 to 386
+MergeSort: Comparing 386 to 494
+MergeSort: Comparing 494 to 105
+MergeSort: Comparing 105 to 96
+MergeSort: Comparing 96 to 86
+MergeSort: Comparing 86 to 38
+MergeSort: Comparing 38 to 229
+MergeSort: Comparing 229 to 485
+MergeSort: Comparing 485 to 74
+MergeSort: Comparing 74 to 264
+MergeSort: Comparing 264 to 386
+MergeSort: Comparing 386 to 494
+MergeSort: Comparing 494 to 105
+MergeSort: Comparing 105 to 96
+MergeSort: Comparing 96 to 86
+MergeSort: Comparing 38 to 74
+MergeSort: Comparing 229 to 74
+MergeSort: Swapping 229 and 74
+MergeSort: Comparing 229 to 264
+MergeSort: Comparing 485 to 264
+MergeSort: Swapping 485 and 264
+MergeSort: Comparing 485 to 386
+MergeSort: Swapping 485 and 386
+MergeSort: Comparing 485 to 494
+MergeSort: Comparing 105 to 96
+MergeSort: Swapping 105 and 96
+MergeSort: Comparing 86 to 38
+MergeSort: Swapping 86 and 38
+MergeSort: Comparing 86 to 229
+MergeSort: Comparing 74 to 105
+MergeSort: Comparing 264 to 105
+MergeSort: Swapping 264 and 105
+MergeSort: Comparing 96 to 86
+MergeSort: Swapping 96 and 86
+MergeSort: Comparing 38 to 74
+MergeSort: Comparing 229 to 74
+MergeSort: Swapping 229 and 74
+MergeSort: Comparing 229 to 264
+MergeSort: Comparing 485 to 264
+MergeSort: Swapping 485 and 264
+MergeSort: Comparing 485 to 386
+MergeSort: Swapping 485 and 386
+MergeSort: Comparing 485 to 494
+MergeSort: Comparing 105 to 96
+MergeSort: Swapping 105 and 96
+MergeSort: Comparing 86 to 38
+MergeSort: Swapping 86 and 38
+MergeSort: Comparing 86 to 229
+MergeSort: Comparing 74 to 105
+MergeSort: Comparing 264 to 105
+MergeSort: Swapping 264 and 105
+MergeSort: Comparing 96 to 86
+MergeSort: Swapping 96 and 86
+MergeSort: Comparing 38 to 74
+MergeSort: Comparing 229 to 74
+MergeSort: Swapping 229 and 74
+MergeSort: Comparing 229 to 264
+MergeSort: Comparing 485 to 264
+MergeSort: Swapping 485 and 264
+MergeSort: Comparing 485 to 386
+MergeSort: Swapping 485 and 386
+MergeSort: Comparing 485 to 494
+MergeSort: Comparing 105 to 96
+MergeSort: Swapping 105 and 96
+MergeSort: Comparing 38 to 96
+MergeSort: Comparing 74 to 96
+MergeSort: Comparing 229 to 96
+MergeSort: Swapping 229 and 96
+MergeSort: Comparing 229 to 105
+MergeSort: Swapping 229 and 105
+MergeSort: Comparing 38 to 74
+MergeSort: Comparing 86 to 74
+MergeSort: Swapping 86 and 74
+MergeSort: Comparing 86 to 105
+MergeSort: Comparing 229 to 105
+MergeSort: Swapping 229 and 105
+MergeSort: Comparing 229 to 264
+MergeSort: Comparing 485 to 264
+MergeSort: Swapping 485 and 264
+MergeSort: Comparing 485 to 386
+MergeSort: Swapping 485 and 386
+MergeSort: Comparing 485 to 494
+MergeSort: Comparing 86 to 38
+MergeSort: Swapping 86 and 38
+MergeSort: Comparing 86 to 74
+MergeSort: Swapping 86 and 74
+MergeSort: Comparing 86 to 229
+MergeSort: Comparing 96 to 229
+MergeSort: Comparing 96 to 38
+MergeSort: Swapping 96 and 38
+MergeSort: Comparing 96 to 86
+MergeSort: Swapping 96 and 86
+MergeSort: Comparing 96 to 229
+MergeSort: Comparing 105 to 229
+MergeSort: Comparing 74 to 86
+MergeSort: Comparing 105 to 86
+MergeSort: Swapping 105 and 86
+MergeSort: Comparing 105 to 96
+MergeSort: Swapping 105 and 96
+MergeSort: Comparing 38 to 96
+MergeSort: Comparing 74 to 96
+MergeSort: Comparing 229 to 96
+MergeSort: Swapping 229 and 96
+MergeSort: Comparing 229 to 105
+MergeSort: Swapping 229 and 105
+MergeSort: Comparing 38 to 38
+MergeSort: Comparing 74 to 38
+MergeSort: Swapping 74 and 38
+MergeSort: Comparing 74 to 74
+MergeSort: Comparing 96 to 74
+MergeSort: Swapping 96 and 74
+MergeSort: Comparing 96 to 86
+MergeSort: Swapping 96 and 86
+MergeSort: Comparing 96 to 105
+MergeSort: Comparing 105 to 105
+MergeSort: Comparing 229 to 105
+MergeSort: Swapping 229 and 105
+MergeSort: Comparing 229 to 229
+MergeSort: Comparing 264 to 229
+MergeSort: Swapping 264 and 229
+MergeSort: Comparing 264 to 264
+MergeSort: Comparing 386 to 264
+MergeSort: Swapping 386 and 264
+MergeSort: Comparing 386 to 386
+MergeSort: Comparing 485 to 386
+MergeSort: Swapping 485 and 386
+MergeSort: Comparing 485 to 485
+MergeSort: Comparing 494 to 485
+MergeSort: Swapping 494 and 485
+MergeSort: Comparing 494 to 494
+MergeSort: Comparing 38 to 38
+MergeSort: Comparing 74 to 38
+MergeSort: Swapping 74 and 38
+MergeSort: Comparing 74 to 86
+MergeSort: Comparing 86 to 86
+MergeSort: Comparing 96 to 86
+MergeSort: Swapping 96 and 86
+MergeSort: Comparing 96 to 96
+MergeSort: Comparing 229 to 96
+MergeSort: Swapping 229 and 96
+MergeSort: Comparing 229 to 105
+MergeSort: Swapping 229 and 105
+MergeSort: Comparing 229 to 229
+MergeSort: Comparing 264 to 229
+MergeSort: Swapping 264 and 229
+MergeSort: Comparing 264 to 485
+MergeSort: Comparing 386 to 485
+MergeSort: Comparing 485 to 485
+MergeSort: Comparing 494 to 485
+MergeSort: Swapping 494 and 485
+MergeSort: Comparing 74 to 38
+MergeSort: Swapping 74 and 38
+MergeSort: Comparing 74 to 74
+MergeSort: Comparing 86 to 74
+MergeSort: Swapping 86 and 74
+MergeSort: Comparing 86 to 96
+MergeSort: Comparing 96 to 96
+MergeSort: Comparing 105 to 96
+MergeSort: Swapping 105 and 96
+MergeSort: Comparing 105 to 105
+MergeSort: Comparing 264 to 105
+MergeSort: Swapping 264 and 105
+MergeSort: Comparing 264 to 229
+MergeSort: Swapping 264 and 229
+MergeSort: Comparing 264 to 264
+MergeSort: Comparing 386 to 264
+MergeSort: Swapping 386 and 264
+MergeSort: Comparing 386 to 386
+MergeSort: Comparing 494 to 386
+MergeSort: Swapping 494 and 386
+MergeSort: Comparing 494 to 485
+MergeSort: Swapping 494 and 485
+MergeSort: Comparing 494 to 494
+MergeSort: Comparing 38 to 38
+MergeSort: Comparing 38 to 38
+MergeSort: Comparing 74 to 38
+MergeSort: Swapping 74 and 38
+MergeSort: Comparing 74 to 38
+MergeSort: Swapping 74 and 38
+MergeSort: Comparing 74 to 74
+MergeSort: Comparing 74 to 74
+MergeSort: Comparing 86 to 74
+MergeSort: Swapping 86 and 74
+MergeSort: Comparing 86 to 86
+MergeSort: Comparing 96 to 86
+MergeSort: Swapping 96 and 86
+MergeSort: Comparing 96 to 86
+MergeSort: Swapping 96 and 86
+MergeSort: Comparing 96 to 96
+MergeSort: Comparing 105 to 96
+MergeSort: Swapping 105 and 96
+MergeSort: Comparing 105 to 96
+MergeSort: Swapping 105 and 96
+MergeSort: Comparing 105 to 105
+MergeSort: Comparing 105 to 105
+MergeSort: Comparing 229 to 105
+MergeSort: Swapping 229 and 105
+MergeSort: Comparing 229 to 229
+MergeSort: Comparing 229 to 229
+MergeSort: Comparing 264 to 229
+MergeSort: Swapping 264 and 229
+MergeSort: Comparing 264 to 229
+MergeSort: Swapping 264 and 229
+MergeSort: Comparing 264 to 264
+MergeSort: Comparing 264 to 264
+MergeSort: Comparing 386 to 264
+MergeSort: Swapping 386 and 264
+MergeSort: Comparing 386 to 386
+MergeSort: Comparing 386 to 386
+MergeSort: Comparing 485 to 386
+MergeSort: Swapping 485 and 386
+MergeSort: Comparing 485 to 485
+MergeSort: Comparing 485 to 485
+MergeSort: Comparing 494 to 485
+MergeSort: Swapping 494 and 485
+MergeSort: Comparing 494 to 485
+MergeSort: Swapping 494 and 485
+MergeSort: Comparing 494 to 494
+MergeSort: Comparing 494 to 494
+MergeSort: Comparing 38 to 86
+MergeSort: Comparing 74 to 86
+MergeSort: Comparing 74 to 86
+MergeSort: Comparing 86 to 86
+MergeSort: Comparing 96 to 86
+MergeSort: Swapping 96 and 86
+MergeSort: Comparing 38 to 38
+MergeSort: Comparing 38 to 38
+MergeSort: Comparing 38 to 38
+MergeSort: Comparing 38 to 38
+MergeSort: Comparing 74 to 38
+MergeSort: Swapping 74 and 38
+MergeSort: Comparing 74 to 74
+MergeSort: Comparing 74 to 74
+MergeSort: Comparing 74 to 74
+MergeSort: Comparing 86 to 74
+MergeSort: Swapping 86 and 74
+MergeSort: Comparing 86 to 74
+MergeSort: Swapping 86 and 74
+MergeSort: Comparing 86 to 86
+MergeSort: Comparing 86 to 86
+MergeSort: Comparing 86 to 86
+MergeSort: Comparing 96 to 86
+MergeSort: Swapping 96 and 86
+MergeSort: Comparing 96 to 86
+MergeSort: Swapping 96 and 86
+MergeSort: Comparing 96 to 96
+MergeSort: Comparing 96 to 96
+MergeSort: Comparing 96 to 96
+MergeSort: Comparing 105 to 96
+MergeSort: Swapping 105 and 96
+MergeSort: Comparing 105 to 96
+MergeSort: Swapping 105 and 96
+MergeSort: Comparing 105 to 105
+MergeSort: Comparing 105 to 105
+MergeSort: Comparing 105 to 105
+MergeSort: Comparing 229 to 105
+MergeSort: Swapping 229 and 105
+MergeSort: Comparing 229 to 105
+MergeSort: Swapping 229 and 105
+MergeSort: Comparing 229 to 229
+MergeSort: Comparing 229 to 229
+MergeSort: Comparing 229 to 229
+MergeSort: Comparing 229 to 229
+MergeSort: Comparing 264 to 229
+MergeSort: Swapping 264 and 229
+MergeSort: Comparing 264 to 264
+MergeSort: Comparing 264 to 264
+MergeSort: Comparing 264 to 264
+MergeSort: Comparing 386 to 264
+MergeSort: Swapping 386 and 264
+MergeSort: Comparing 386 to 264
+MergeSort: Swapping 386 and 264
+MergeSort: Comparing 386 to 386
+MergeSort: Comparing 386 to 386
+MergeSort: Comparing 386 to 386
+MergeSort: Comparing 485 to 386
+MergeSort: Swapping 485 and 386
+MergeSort: Comparing 485 to 386
+MergeSort: Swapping 485 and 386
+MergeSort: Comparing 485 to 485
+MergeSort: Comparing 485 to 485
+MergeSort: Comparing 485 to 485
+MergeSort: Comparing 485 to 485
+MergeSort: Comparing 494 to 485
+MergeSort: Swapping 494 and 485
+MergeSort: Comparing 494 to 494
+MergeSort: Comparing 494 to 494
+MergeSort: Comparing 494 to 494
+
+Number of swaps: 84
+
+Number of comparisons: 238
+
+Sorted result: 
+38
+38
+38
+38
+38
+74
+74
+74
+74
+74
+86
+86
+86
+86
+86
+96
+96
+96
+96
+96
+105
+105
+105
+105
+105
+229
+229
+229
+229
+229
+264
+264
+264
+264
+264
+386
+386
+386
+386
+386
+485
+485
+485
+485
+485
+494
+494
+494
+494
+494

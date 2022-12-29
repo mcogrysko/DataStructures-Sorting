@@ -1,0 +1,384 @@
+Mike Ogrysko
+java SortComparison "dup50.dat" "QSS4dup50out.dat"
+Reading "dup50.dat" and writing to "QSS4dup50out.dat"
+Running a QuickSort with median-of-3 as pivot
+QuickSort: Comparing 38 to 264
+QuickSort: Comparing 38 to 86
+QuickSort: Comparing 264 to 86
+QuickSort: Swapping 264 and 86
+QuickSort: Swapping 86 and 264
+QuickSort: Comparing 229 to 74
+QuickSort: Swapping 229 and 74
+QuickSort: Comparing 485 to 38
+QuickSort: Swapping 485 and 38
+QuickSort: Comparing 264 to 86
+QuickSort: Swapping 264 and 86
+QuickSort: Comparing 386 to 74
+QuickSort: Swapping 386 and 74
+QuickSort: Comparing 494 to 38
+QuickSort: Swapping 494 and 38
+QuickSort: Comparing 105 to 86
+QuickSort: Swapping 105 and 86
+QuickSort: Comparing 96 to 74
+QuickSort: Swapping 96 and 74
+QuickSort: Comparing 86 to 38
+QuickSort: Swapping 86 and 38
+QuickSort: Comparing 229 to 86
+QuickSort: Swapping 229 and 86
+QuickSort: Comparing 485 to 74
+QuickSort: Swapping 485 and 74
+QuickSort: Comparing 485 to 74
+QuickSort: Comparing 485 to 86
+QuickSort: Swapping 485 and 86
+QuickSort: Comparing 38 to 38
+QuickSort: Comparing 38 to 74
+QuickSort: Comparing 38 to 74
+QuickSort: Swapping 38 and 74
+QuickSort: Comparing 38 to 38
+QuickSort: Swapping 38 and 38
+QuickSort: Comparing 74 to 38
+QuickSort: Swapping 74 and 38
+QuickSort: Comparing 38 to 38
+QuickSort: Comparing 38 to 38
+QuickSort: Swapping 38 and 38
+QuickSort: Comparing 38 to 38
+QuickSort: Comparing 38 to 38
+QuickSort: Comparing 38 to 38
+QuickSort: Swapping 38 and 38
+QuickSort: Comparing 38 to 38
+QuickSort: Comparing 38 to 38
+QuickSort: Swapping 38 and 38
+QuickSort: Comparing 74 to 86
+QuickSort: Comparing 74 to 38
+QuickSort: Swapping 74 and 38
+QuickSort: Comparing 86 to 74
+QuickSort: Swapping 86 and 74
+QuickSort: Swapping 74 and 86
+QuickSort: Comparing 86 to 38
+QuickSort: Swapping 86 and 38
+QuickSort: Comparing 74 to 74
+QuickSort: Swapping 74 and 74
+QuickSort: Comparing 74 to 74
+QuickSort: Swapping 74 and 74
+QuickSort: Comparing 86 to 74
+QuickSort: Comparing 86 to 74
+QuickSort: Swapping 86 and 74
+QuickSort: Comparing 38 to 38
+QuickSort: Comparing 38 to 74
+QuickSort: Comparing 38 to 74
+QuickSort: Swapping 38 and 74
+QuickSort: Comparing 38 to 38
+QuickSort: Comparing 38 to 38
+QuickSort: Swapping 38 and 38
+QuickSort: Comparing 74 to 74
+QuickSort: Comparing 74 to 38
+QuickSort: Swapping 74 and 38
+QuickSort: Comparing 74 to 74
+QuickSort: Swapping 74 and 74
+QuickSort: Comparing 74 to 74
+QuickSort: Comparing 74 to 74
+QuickSort: Swapping 74 and 74
+QuickSort: Comparing 74 to 86
+QuickSort: Comparing 74 to 86
+QuickSort: Comparing 86 to 86
+QuickSort: Swapping 86 and 86
+QuickSort: Comparing 86 to 86
+QuickSort: Swapping 86 and 86
+QuickSort: Comparing 86 to 86
+QuickSort: Comparing 86 to 86
+QuickSort: Swapping 86 and 86
+QuickSort: Comparing 74 to 74
+QuickSort: Comparing 74 to 86
+QuickSort: Comparing 74 to 86
+QuickSort: Swapping 74 and 86
+QuickSort: Comparing 74 to 74
+QuickSort: Comparing 74 to 74
+QuickSort: Swapping 74 and 74
+QuickSort: Comparing 86 to 86
+QuickSort: Comparing 86 to 74
+QuickSort: Swapping 86 and 74
+QuickSort: Comparing 74 to 86
+QuickSort: Swapping 74 and 86
+QuickSort: Comparing 86 to 74
+QuickSort: Comparing 86 to 74
+QuickSort: Swapping 86 and 74
+QuickSort: Comparing 264 to 229
+QuickSort: Swapping 264 and 229
+QuickSort: Comparing 229 to 485
+QuickSort: Comparing 264 to 485
+QuickSort: Swapping 264 and 485
+QuickSort: Comparing 386 to 96
+QuickSort: Swapping 386 and 96
+QuickSort: Comparing 494 to 105
+QuickSort: Swapping 494 and 105
+QuickSort: Comparing 485 to 264
+QuickSort: Swapping 485 and 264
+QuickSort: Comparing 264 to 229
+QuickSort: Swapping 264 and 229
+QuickSort: Comparing 386 to 229
+QuickSort: Swapping 386 and 229
+QuickSort: Comparing 494 to 264
+QuickSort: Swapping 494 and 264
+QuickSort: Comparing 494 to 96
+QuickSort: Swapping 494 and 96
+QuickSort: Comparing 485 to 105
+QuickSort: Swapping 485 and 105
+QuickSort: Comparing 485 to 264
+QuickSort: Swapping 485 and 264
+QuickSort: Comparing 386 to 264
+QuickSort: Comparing 386 to 264
+QuickSort: Swapping 386 and 264
+QuickSort: Comparing 229 to 96
+QuickSort: Swapping 229 and 96
+QuickSort: Comparing 96 to 264
+QuickSort: Comparing 229 to 264
+QuickSort: Swapping 229 and 264
+QuickSort: Comparing 229 to 105
+QuickSort: Swapping 229 and 105
+QuickSort: Comparing 229 to 96
+QuickSort: Swapping 229 and 96
+QuickSort: Comparing 264 to 105
+QuickSort: Swapping 264 and 105
+QuickSort: Comparing 264 to 96
+QuickSort: Swapping 264 and 96
+QuickSort: Comparing 229 to 105
+QuickSort: Swapping 229 and 105
+QuickSort: Comparing 229 to 229
+QuickSort: Comparing 229 to 229
+QuickSort: Swapping 229 and 229
+QuickSort: Comparing 96 to 105
+QuickSort: Comparing 96 to 105
+QuickSort: Comparing 105 to 105
+QuickSort: Swapping 105 and 105
+QuickSort: Comparing 105 to 96
+QuickSort: Swapping 105 and 96
+QuickSort: Comparing 105 to 105
+QuickSort: Swapping 105 and 105
+QuickSort: Comparing 105 to 96
+QuickSort: Swapping 105 and 96
+QuickSort: Comparing 105 to 86
+QuickSort: Comparing 105 to 105
+QuickSort: Swapping 105 and 105
+QuickSort: Comparing 96 to 105
+QuickSort: Comparing 96 to 86
+QuickSort: Swapping 96 and 86
+QuickSort: Comparing 105 to 96
+QuickSort: Swapping 105 and 96
+QuickSort: Swapping 96 and 105
+QuickSort: Comparing 96 to 96
+QuickSort: Swapping 96 and 96
+QuickSort: Comparing 96 to 96
+QuickSort: Swapping 96 and 96
+QuickSort: Comparing 105 to 96
+QuickSort: Comparing 105 to 96
+QuickSort: Swapping 105 and 96
+QuickSort: Comparing 86 to 96
+QuickSort: Comparing 86 to 96
+QuickSort: Comparing 96 to 96
+QuickSort: Swapping 96 and 96
+QuickSort: Comparing 96 to 96
+QuickSort: Comparing 96 to 96
+QuickSort: Swapping 96 and 96
+QuickSort: Comparing 96 to 96
+QuickSort: Comparing 96 to 105
+QuickSort: Comparing 96 to 105
+QuickSort: Swapping 96 and 105
+QuickSort: Comparing 96 to 96
+QuickSort: Comparing 96 to 96
+QuickSort: Swapping 96 and 96
+QuickSort: Comparing 105 to 105
+QuickSort: Comparing 105 to 96
+QuickSort: Swapping 105 and 96
+QuickSort: Comparing 96 to 105
+QuickSort: Swapping 96 and 105
+QuickSort: Comparing 105 to 96
+QuickSort: Comparing 105 to 96
+QuickSort: Swapping 105 and 96
+QuickSort: Comparing 105 to 105
+QuickSort: Comparing 105 to 105
+QuickSort: Comparing 105 to 105
+QuickSort: Swapping 105 and 105
+QuickSort: Comparing 105 to 105
+QuickSort: Swapping 105 and 105
+QuickSort: Comparing 105 to 105
+QuickSort: Comparing 105 to 105
+QuickSort: Swapping 105 and 105
+QuickSort: Comparing 264 to 264
+QuickSort: Comparing 264 to 229
+QuickSort: Swapping 264 and 229
+QuickSort: Comparing 264 to 264
+QuickSort: Swapping 264 and 264
+QuickSort: Comparing 264 to 229
+QuickSort: Swapping 264 and 229
+QuickSort: Comparing 264 to 229
+QuickSort: Swapping 264 and 229
+QuickSort: Comparing 264 to 229
+QuickSort: Comparing 264 to 264
+QuickSort: Swapping 264 and 264
+QuickSort: Comparing 229 to 229
+QuickSort: Comparing 229 to 229
+QuickSort: Comparing 229 to 229
+QuickSort: Swapping 229 and 229
+QuickSort: Comparing 229 to 229
+QuickSort: Swapping 229 and 229
+QuickSort: Comparing 229 to 229
+QuickSort: Comparing 229 to 229
+QuickSort: Swapping 229 and 229
+QuickSort: Comparing 229 to 229
+QuickSort: Comparing 229 to 229
+QuickSort: Comparing 229 to 229
+QuickSort: Swapping 229 and 229
+QuickSort: Comparing 229 to 229
+QuickSort: Comparing 229 to 229
+QuickSort: Swapping 229 and 229
+QuickSort: Comparing 264 to 264
+QuickSort: Comparing 264 to 264
+QuickSort: Comparing 264 to 264
+QuickSort: Swapping 264 and 264
+QuickSort: Comparing 264 to 264
+QuickSort: Comparing 264 to 264
+QuickSort: Swapping 264 and 264
+QuickSort: Comparing 485 to 386
+QuickSort: Swapping 485 and 386
+QuickSort: Comparing 386 to 386
+QuickSort: Comparing 485 to 386
+QuickSort: Swapping 485 and 386
+QuickSort: Swapping 386 and 485
+QuickSort: Comparing 386 to 386
+QuickSort: Swapping 386 and 386
+QuickSort: Comparing 386 to 386
+QuickSort: Swapping 386 and 386
+QuickSort: Comparing 494 to 264
+QuickSort: Swapping 494 and 264
+QuickSort: Comparing 485 to 264
+QuickSort: Comparing 485 to 386
+QuickSort: Swapping 485 and 386
+QuickSort: Comparing 386 to 386
+QuickSort: Comparing 386 to 264
+QuickSort: Swapping 386 and 264
+QuickSort: Comparing 386 to 386
+QuickSort: Swapping 386 and 386
+QuickSort: Comparing 386 to 386
+QuickSort: Comparing 386 to 386
+QuickSort: Swapping 386 and 386
+QuickSort: Comparing 494 to 494
+QuickSort: Comparing 494 to 485
+QuickSort: Swapping 494 and 485
+QuickSort: Comparing 494 to 494
+QuickSort: Swapping 494 and 494
+QuickSort: Comparing 494 to 386
+QuickSort: Swapping 494 and 386
+QuickSort: Comparing 494 to 494
+QuickSort: Swapping 494 and 494
+QuickSort: Comparing 494 to 494
+QuickSort: Comparing 494 to 494
+QuickSort: Swapping 494 and 494
+QuickSort: Comparing 485 to 485
+QuickSort: Comparing 485 to 386
+QuickSort: Swapping 485 and 386
+QuickSort: Comparing 485 to 485
+QuickSort: Swapping 485 and 485
+QuickSort: Comparing 485 to 485
+QuickSort: Swapping 485 and 485
+QuickSort: Comparing 485 to 485
+QuickSort: Swapping 485 and 485
+QuickSort: Comparing 485 to 485
+QuickSort: Comparing 485 to 485
+QuickSort: Swapping 485 and 485
+QuickSort: Comparing 386 to 386
+QuickSort: Comparing 386 to 485
+QuickSort: Comparing 386 to 485
+QuickSort: Swapping 386 and 485
+QuickSort: Comparing 386 to 386
+QuickSort: Comparing 386 to 386
+QuickSort: Swapping 386 and 386
+QuickSort: Comparing 485 to 485
+QuickSort: Comparing 485 to 386
+QuickSort: Swapping 485 and 386
+QuickSort: Comparing 485 to 485
+QuickSort: Swapping 485 and 485
+QuickSort: Comparing 485 to 485
+QuickSort: Comparing 485 to 485
+QuickSort: Swapping 485 and 485
+QuickSort: Comparing 494 to 485
+QuickSort: Swapping 494 and 485
+QuickSort: Comparing 485 to 485
+QuickSort: Comparing 494 to 485
+QuickSort: Swapping 494 and 485
+QuickSort: Swapping 485 and 494
+QuickSort: Comparing 485 to 485
+QuickSort: Comparing 485 to 485
+QuickSort: Swapping 485 and 485
+QuickSort: Comparing 494 to 494
+QuickSort: Comparing 494 to 485
+QuickSort: Swapping 494 and 485
+QuickSort: Comparing 485 to 494
+QuickSort: Swapping 485 and 494
+QuickSort: Comparing 494 to 485
+QuickSort: Comparing 494 to 485
+QuickSort: Swapping 494 and 485
+QuickSort: Comparing 494 to 494
+QuickSort: Comparing 494 to 494
+QuickSort: Comparing 494 to 494
+QuickSort: Swapping 494 and 494
+QuickSort: Comparing 494 to 494
+QuickSort: Swapping 494 and 494
+QuickSort: Comparing 494 to 494
+QuickSort: Comparing 494 to 494
+QuickSort: Swapping 494 and 494
+
+Number of swaps: 127
+
+Number of comparisons: 197
+
+Sorted result: 
+38
+38
+38
+38
+38
+74
+74
+74
+74
+74
+86
+86
+86
+86
+86
+96
+96
+96
+96
+96
+105
+105
+105
+105
+105
+229
+229
+229
+229
+229
+264
+264
+264
+264
+264
+386
+386
+386
+386
+386
+485
+485
+485
+485
+485
+494
+494
+494
+494
+494

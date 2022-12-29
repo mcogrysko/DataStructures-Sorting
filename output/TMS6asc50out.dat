@@ -1,0 +1,213 @@
+Mike Ogrysko
+java SortComparison "asc50.dat" "TMS6asc50out.dat"
+Reading "asc50.dat" and writing to "TMS6asc50out.dat"
+Running a Traditional MergeSort
+MergeSort: Comparing 1 to 2
+MergeSort: Comparing 3 to 4
+MergeSort: Comparing 1 to 3
+MergeSort: Comparing 2 to 3
+MergeSort: Comparing 5 to 6
+MergeSort: Comparing 5 to 7
+MergeSort: Comparing 6 to 7
+MergeSort: Comparing 1 to 5
+MergeSort: Comparing 2 to 5
+MergeSort: Comparing 3 to 5
+MergeSort: Comparing 4 to 5
+MergeSort: Comparing 8 to 9
+MergeSort: Comparing 8 to 10
+MergeSort: Comparing 9 to 10
+MergeSort: Comparing 11 to 12
+MergeSort: Comparing 11 to 13
+MergeSort: Comparing 12 to 13
+MergeSort: Comparing 8 to 11
+MergeSort: Comparing 9 to 11
+MergeSort: Comparing 10 to 11
+MergeSort: Comparing 1 to 8
+MergeSort: Comparing 2 to 8
+MergeSort: Comparing 3 to 8
+MergeSort: Comparing 4 to 8
+MergeSort: Comparing 5 to 8
+MergeSort: Comparing 6 to 8
+MergeSort: Comparing 7 to 8
+MergeSort: Comparing 14 to 15
+MergeSort: Comparing 14 to 16
+MergeSort: Comparing 15 to 16
+MergeSort: Comparing 17 to 18
+MergeSort: Comparing 17 to 19
+MergeSort: Comparing 18 to 19
+MergeSort: Comparing 14 to 17
+MergeSort: Comparing 15 to 17
+MergeSort: Comparing 16 to 17
+MergeSort: Comparing 20 to 21
+MergeSort: Comparing 20 to 22
+MergeSort: Comparing 21 to 22
+MergeSort: Comparing 23 to 24
+MergeSort: Comparing 23 to 25
+MergeSort: Comparing 24 to 25
+MergeSort: Comparing 20 to 23
+MergeSort: Comparing 21 to 23
+MergeSort: Comparing 22 to 23
+MergeSort: Comparing 14 to 20
+MergeSort: Comparing 15 to 20
+MergeSort: Comparing 16 to 20
+MergeSort: Comparing 17 to 20
+MergeSort: Comparing 18 to 20
+MergeSort: Comparing 19 to 20
+MergeSort: Comparing 1 to 14
+MergeSort: Comparing 2 to 14
+MergeSort: Comparing 3 to 14
+MergeSort: Comparing 4 to 14
+MergeSort: Comparing 5 to 14
+MergeSort: Comparing 6 to 14
+MergeSort: Comparing 7 to 14
+MergeSort: Comparing 8 to 14
+MergeSort: Comparing 9 to 14
+MergeSort: Comparing 10 to 14
+MergeSort: Comparing 11 to 14
+MergeSort: Comparing 12 to 14
+MergeSort: Comparing 13 to 14
+MergeSort: Comparing 26 to 27
+MergeSort: Comparing 28 to 29
+MergeSort: Comparing 26 to 28
+MergeSort: Comparing 27 to 28
+MergeSort: Comparing 30 to 31
+MergeSort: Comparing 30 to 32
+MergeSort: Comparing 31 to 32
+MergeSort: Comparing 26 to 30
+MergeSort: Comparing 27 to 30
+MergeSort: Comparing 28 to 30
+MergeSort: Comparing 29 to 30
+MergeSort: Comparing 33 to 34
+MergeSort: Comparing 33 to 35
+MergeSort: Comparing 34 to 35
+MergeSort: Comparing 36 to 37
+MergeSort: Comparing 36 to 38
+MergeSort: Comparing 37 to 38
+MergeSort: Comparing 33 to 36
+MergeSort: Comparing 34 to 36
+MergeSort: Comparing 35 to 36
+MergeSort: Comparing 26 to 33
+MergeSort: Comparing 27 to 33
+MergeSort: Comparing 28 to 33
+MergeSort: Comparing 29 to 33
+MergeSort: Comparing 30 to 33
+MergeSort: Comparing 31 to 33
+MergeSort: Comparing 32 to 33
+MergeSort: Comparing 39 to 40
+MergeSort: Comparing 39 to 41
+MergeSort: Comparing 40 to 41
+MergeSort: Comparing 42 to 43
+MergeSort: Comparing 42 to 44
+MergeSort: Comparing 43 to 44
+MergeSort: Comparing 39 to 42
+MergeSort: Comparing 40 to 42
+MergeSort: Comparing 41 to 42
+MergeSort: Comparing 45 to 46
+MergeSort: Comparing 45 to 47
+MergeSort: Comparing 46 to 47
+MergeSort: Comparing 48 to 49
+MergeSort: Comparing 48 to 50
+MergeSort: Comparing 49 to 50
+MergeSort: Comparing 45 to 48
+MergeSort: Comparing 46 to 48
+MergeSort: Comparing 47 to 48
+MergeSort: Comparing 39 to 45
+MergeSort: Comparing 40 to 45
+MergeSort: Comparing 41 to 45
+MergeSort: Comparing 42 to 45
+MergeSort: Comparing 43 to 45
+MergeSort: Comparing 44 to 45
+MergeSort: Comparing 26 to 39
+MergeSort: Comparing 27 to 39
+MergeSort: Comparing 28 to 39
+MergeSort: Comparing 29 to 39
+MergeSort: Comparing 30 to 39
+MergeSort: Comparing 31 to 39
+MergeSort: Comparing 32 to 39
+MergeSort: Comparing 33 to 39
+MergeSort: Comparing 34 to 39
+MergeSort: Comparing 35 to 39
+MergeSort: Comparing 36 to 39
+MergeSort: Comparing 37 to 39
+MergeSort: Comparing 38 to 39
+MergeSort: Comparing 1 to 26
+MergeSort: Comparing 2 to 26
+MergeSort: Comparing 3 to 26
+MergeSort: Comparing 4 to 26
+MergeSort: Comparing 5 to 26
+MergeSort: Comparing 6 to 26
+MergeSort: Comparing 7 to 26
+MergeSort: Comparing 8 to 26
+MergeSort: Comparing 9 to 26
+MergeSort: Comparing 10 to 26
+MergeSort: Comparing 11 to 26
+MergeSort: Comparing 12 to 26
+MergeSort: Comparing 13 to 26
+MergeSort: Comparing 14 to 26
+MergeSort: Comparing 15 to 26
+MergeSort: Comparing 16 to 26
+MergeSort: Comparing 17 to 26
+MergeSort: Comparing 18 to 26
+MergeSort: Comparing 19 to 26
+MergeSort: Comparing 20 to 26
+MergeSort: Comparing 21 to 26
+MergeSort: Comparing 22 to 26
+MergeSort: Comparing 23 to 26
+MergeSort: Comparing 24 to 26
+MergeSort: Comparing 25 to 26
+
+Number of swaps: 0
+
+Number of comparisons: 153
+
+Sorted result: 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
