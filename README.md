@@ -31,3 +31,5 @@ Output will display on screen and will print to the specified file<br>
 As specified in the lab, comparisons, swaps, totals, and sorts for lists of size 50 will be displayed and printed in the files. Only totals will be displayed and printed for all other sized lists.<br>
 
 If using a different input file other than those provided, please include the full number of records in the file name - e.g., ran8000.dat instead of "8K". The program will pull the number from the file name to process the list. 
+
+<i><a href="https://mcogrysko.github.io">Back to Mike Ogrysko's portfolio</a></i>
